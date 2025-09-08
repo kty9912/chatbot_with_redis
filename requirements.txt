@@ -1,0 +1,15 @@
+graphviz==0.21
+httptools==0.6.4
+hyperopt==0.2.7
+langchain-chroma==0.2.5
+langchain-community==0.3.29
+langchain-upstage==0.7.3
+matplotlib==3.10.5
+pip==25.2
+plotly==6.3.0
+redis==6.4.0
+setuptools==78.1.1
+streamlit==1.48.1
+watchfiles==1.1.0
+wheel==0.45.1
+yfinance==0.2.65
